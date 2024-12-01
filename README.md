@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @harishvendhan
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning java
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: "I speak fluent code, but my comments are still learning a second language!"
 <h1 align="center">Hi 👋, I'm Harish</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
